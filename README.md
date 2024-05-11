@@ -22,7 +22,7 @@
   ### Database
  ![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite)
 ### other Software and tools
- ![My Skills](https://skillicons.dev/icons?i=git,firebase,postman)
+ ![My Skills](https://skillicons.dev/icons?i=git,firebase,postman,netlify)
  
  
 
