@@ -13,8 +13,18 @@
 
 
 ## Skills
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,django,bootstrap,heroku,react,mui,c,git,netlify)
+### Programming Languages
+ ![My Skills](https://skillicons.dev/icons?i=python,c,javascript)
+ ### Frontend Development
+ ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,mui,framermotion)
+ ### Backend Development
+ ![My Skills](https://skillicons.dev/icons?i=nodejs,django,flask)
+  ### Database
+ ![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite)
+### other Software and tools
+ ![My Skills](https://skillicons.dev/icons?i=git,firebase,postman)
+ 
+ 
 
 ## GitHub stats
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Eldhosee&show_icons=true&theme=radical)
