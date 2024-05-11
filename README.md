@@ -11,6 +11,7 @@
     <img src="https://user-images.githubusercontent.com/89120135/205419609-d8cf7f28-2524-4b5b-bb17-b6dd13a324cf.gif"/>
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eldhosee&label=Profile%20views&color=0e75b6&style=flat" alt="eldhosee" /> </p>
 
 ## Skills
 ### Programming Languages
