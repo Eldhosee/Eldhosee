@@ -1,5 +1,7 @@
 
-
+ <div align="center">
+    <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWExZjUxZXM2YmJ5YTZmZTdpcG1veGJlZ25yeWVzanFpeDBuZHhyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' alt="gif"  />
+</div>
 <h1 align="center">
 👋 Hi, I’m Eldhose Iype
 <p align="center">
@@ -7,9 +9,10 @@
 </p>
 
 </h1>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/89120135/205419609-d8cf7f28-2524-4b5b-bb17-b6dd13a324cf.gif"/>
-</div>
+  
+
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eldhosee&label=Profile%20views&color=0e75b6&style=flat" alt="eldhosee" /> </p>
 
