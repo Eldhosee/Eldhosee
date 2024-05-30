@@ -25,7 +25,7 @@
  ![My Skills](https://skillicons.dev/icons?i=nodejs,django,flask)
   ### Database
  ![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite)
-### other Software and tools
+### other Software and tool
  ![My Skills](https://skillicons.dev/icons?i=git,firebase,postman,netlify)
  
  
