@@ -1,46 +1,116 @@
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│  Eldhose Iype                                                │
+│  Backend Developer                                           │
+│  Spring Boot • Microservices • System Design                 │
+└──────────────────────────────────────────────────────────────┘
+```
 
- <div align="center">
-    <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWExZjUxZXM2YmJ5YTZmZTdpcG1veGJlZ25yeWVzanFpeDBuZHhyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' alt="gif"  />
-</div>
-<h1 align="center">
-👋 Hi, I’m Eldhose Iype
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?                font=Playfair+Display&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Information+Technology+Student;Web+Developer;Always+Learning+New+Skills+" alt="Typing    SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33FF33&background=0D111700&width=700&lines=%24+Building+Scalable+Backend+Systems;%24+Working+with+Java+and+Spring+Boot;%24+Learning+Distributed+Systems;%24+Exploring+Microservices+Architecture" />
 
-</h1>
-  
+```bash
+Backend-focused developer building scalable systems using Java and Spring Boot.
+```
+
+---
+
+# Tech Stack
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"/><br>
+<b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50"/><br>
+<b>Spring Boot</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="50"/><br>
+<b>Hibernate</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/><br>
+<b>PostgreSQL</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50"/><br>
+<b>Docker</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=maven&theme=dark" width="50"/><br>
+<b>Maven</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/><br>
+<b>Git</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50"/><br>
+<b>Postman</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="50"/><br>
+<b>IntelliJ IDEA</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/><br>
+<b>Linux</b>
+</td>
+</tr>
+</table>
+
+---
+
+# Current Focus
+
+```bash
+$ current_focus
+
+> Backend Engineering
+> Microservices Architecture
+> Distributed Systems
+> System Design
+> Secure REST APIs
+> Scalable Backend Applications
+```
+
+---
+
+# GitHub Analytics
 
 
 
+<img src="https://streak-stats.demolab.com?user=Eldhosee&theme=chartreuse-dark&hide_border=true&background=0D1117" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eldhosee&label=Profile%20views&color=0e75b6&style=flat" alt="eldhosee" /> </p>
+---
 
-## Skills
-### Programming Languages
- ![My Skills](https://skillicons.dev/icons?i=python,c,javascript)
- ### Frontend Development
- ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,mui,framermotion)
- ### Backend Development
- ![My Skills](https://skillicons.dev/icons?i=nodejs,django,flask)
-  ### Database
- ![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite)
-### other Software and tools
- ![My Skills](https://skillicons.dev/icons?i=git,firebase,postman,netlify)
- 
- 
+```bash
+$ status
 
-## GitHub stats
- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eldhosee&show_icons=true&theme=radical" alt="gif"  />
- 
-  <img src="https://streak-stats.demolab.com/?user=Eldhosee" alt="gif"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eldhosee&layout=compact&theme=radical" alt="gif"  />
-</div>
-
-
-
-<!---
-Eldhosee/Eldhosee is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes..............
---->
+Focused on building strong backend engineering skills through real-world projects.
+```
