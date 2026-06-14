@@ -34,15 +34,15 @@ Backend-focused developer building scalable systems using Java and Spring Boot.
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/><br>
-<b>PostgreSQL</b>
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="50"/><br>
+<b>Kibana</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/><br>
-<b>MySQL</b>
+<img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" width="50"/><br>
+<b>ElasticSearch</b>
 </td>
 
 <td align="center">
@@ -72,15 +72,9 @@ Backend-focused developer building scalable systems using Java and Spring Boot.
 <b>Postman</b>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="50"/><br>
-<b>IntelliJ IDEA</b>
-</td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/><br>
-<b>Linux</b>
-</td>
+
+
 </tr>
 </table>
 
