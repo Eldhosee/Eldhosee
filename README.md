@@ -72,6 +72,11 @@ Backend-focused developer building scalable systems using Java and Spring Boot.
 <b>Postman</b>
 </td>
 
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="50"/><br>
+<b>Apache Kafka</b>
+</td>
+
 
 
 
